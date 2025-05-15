@@ -41,4 +41,8 @@ Answer 9: On branch main
           Your branch is up to date with 'origin/main'.
 
           nothing to commit, working tree clean
-Answer 10: 
+Answer 10: No, they were not reflected
+
+Answer 11: An error occurs, it says my current branch is behind
+Answer 12: Yes, they were now reflected - Everything up to date
+Answer 13:   ..  .git  .gitignore  README.md
